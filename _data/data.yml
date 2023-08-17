@@ -44,6 +44,16 @@ sidebar:
           
         - idiom: Chinese
           level: Intermediate
+          
+        - idiom : Russian
+          level : Beginner
+          
+        - idiom : Swahili
+          level : Beginner
+          
+        - idiom : Ainu
+          level : Beginner
+
 
     interests:
       title: Interests
@@ -69,9 +79,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MA in Linguistics
+        university: Seoul National University
+        time: 2023-
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -80,9 +90,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: BA in Linguistics
+        university: Seoul National University
+        time: 2018-2023
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
