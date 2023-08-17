@@ -90,6 +90,12 @@
       <a href="https://www.goodreads.com/user/show/{{ sidebar.goodreads }}" target="_blank">{{ sidebar.goodreads }}</a>
     </li>
     {% endif %}
+    
+    {% if sidebar.research-gate %}
+    <li class="research-gate"><i class="fab fa-research-gate"></i>
+      <a href="https://researchgate.net/profile/{{ sidebar.research-gate }}" target="_blank">{{ sidebar.research-gate }}</a>
+    </li>
+    {% endif %}
 
     {% if sidebar.pdf %}
     <li class="pdf"><i class="fas fa-file-pdf"></i>
